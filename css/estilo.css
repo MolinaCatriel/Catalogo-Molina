@@ -18,7 +18,13 @@ body{
     flex-grow: inherit;
 }
 
+.imagenDestaca:hover{
+    transform: scale(1.2);
+    transition: all 0.5s ease 
+    
+}
 
+/*Inicio estilo contacto*/
 .mapaEntregas:hover{
     transform: scale(1.2);
     transition: all 0.5s ease
@@ -34,8 +40,8 @@ body{
     border-radius: 5px;
     max-width: 90%;
     margin: 100px;
-
 }
+/*Fin estilo contacto*/
 
 
 /*Inicio Estilo del footer*/
